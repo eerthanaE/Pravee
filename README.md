@@ -152,13 +152,13 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://drive.google.com/file/d/Res.docx=sharing" target="_blank" class="download-button">Download Google drive</a>
+            <a href="[https://drive.google.com/file/d/Res.docx=sharing](https://docs.google.com/document/d/1H2g3v1e4UHUCI-rPN2HEQ6fzmLCpSFLO/edit?usp=drivesdk&ouid=103124436740264407921&rtpof=true&sd=true)" target="_blank" class="download-button">Download Google drive</a>
         </center>
         </div>
         
     </section>
 
-    <footer>
+    <footehttps://docs.google.com/document/d/1H2g3v1e4UHUCI-rPN2HEQ6fzmLCpSFLO/edit?usp=drivesdk&ouid=103124436740264407921&rtpof=true&sd=true>
         <p>&copy; 2023 VIGNESH M</p>
     </footer>
 
