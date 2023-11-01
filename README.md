@@ -152,7 +152,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://drive.google.com/file/d/.docx=sharing" target="_blank" class="download-button">Download Google drive</a>
+            <a href="https://drive.google.com/file/d/Res.docx=sharing" target="_blank" class="download-button">Download Google drive</a>
         </center>
         </div>
         
